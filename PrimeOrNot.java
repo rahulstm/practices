@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class p11 {
+public class PrimeOrNot {
     public static void main(String[] args) {
         Scanner obj=new Scanner(System.in);
         int n=obj.nextInt();

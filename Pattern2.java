@@ -1,4 +1,4 @@
-public class pat2 {
+public class Pattern2 {
     public static void main(String[] args) {
         int n=5;
         int i=1;
